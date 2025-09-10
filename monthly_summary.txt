@@ -1,0 +1,11 @@
+Monthly Income and Expense Summary
+----------------------------------------
+Income: Rs45000.0
+Expenses:
+  Rent: Rs10000.0
+  Tution Fees: Rs1000.0
+  Transport: Rs500.0
+  Trip: Rs4000.0
+  Others: Rs2000.0
+Total Expenses: Rs17500.0
+Savings: Rs27500.0
